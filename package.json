@@ -1,0 +1,26 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get a random Star Wars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helton/starwars-names.git"
+  },
+  "keywords": [
+    "star-wars",
+    "random"
+  ],
+  "author": "Helton Carlos de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helton/starwars-names/issues"
+  },
+  "homepage": "https://github.com/helton/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
